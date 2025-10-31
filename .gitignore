@@ -1,0 +1,7 @@
+/target
+
+# ignore all idea settings
+.idea/*
+*.iws
+*.iml
+*.ipr
